@@ -1,0 +1,24 @@
+.Apply {
+    background-color: #0A121F;
+    padding-top: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: center !important;
+}
+
+.apply-left {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.apply-left img {
+    width: 70%;
+}
+
+.apply-left-btn {
+    padding-top: 50px;
+}
+.apply-right{
+    color: whitesmoke;
+}

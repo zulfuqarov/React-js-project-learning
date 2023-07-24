@@ -1,0 +1,41 @@
+/* @import url(../../reset.css); */
+
+.introdaction-activ {
+    margin-top: 270px;
+}
+.Introdaction-color{
+    background-color: #0A121F;
+    padding-top: 70px;
+}
+.Introdaction-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Introdaction-right img{
+    width: 70%;
+}
+.ntrodaction-left{
+    color: white;
+}
+.Introdaction-left-btn {
+    margin-top: 25px;
+}
+.Introdaction-left-btn button:nth-child(2){
+    margin-left: 15px;
+}
+.companies-img{
+    margin-bottom: 25px;
+}
+.swiper-slide img{
+    width: 170px !important;
+    height: 45px !important;
+}
+.siperclass{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.Introdaction{
+    margin-bottom: 70px;
+}
